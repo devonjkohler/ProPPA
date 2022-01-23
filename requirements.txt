@@ -1,0 +1,4 @@
+pyparsing==2.2.2
+docopt
+numpy
+matplotlib
